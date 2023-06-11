@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1685311454132,
+  "timestamp": 1686519495014,
   "index": "https://sergiomarentesj.github.io/prueba/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "https://sergiomarentesj.github.io/prueba/favicon.ico",
         "https://sergiomarentesj.github.io/prueba/index.html",
-        "https://sergiomarentesj.github.io/prueba/main.3d301b4ee606c81b.js",
+        "https://sergiomarentesj.github.io/prueba/main.4b7e44af30ba7cd3.js",
         "https://sergiomarentesj.github.io/prueba/manifest.webmanifest",
         "https://sergiomarentesj.github.io/prueba/polyfills.ca1eb2fe58177ced.js",
         "https://sergiomarentesj.github.io/prueba/runtime.d286737f1cdbbeb0.js",
@@ -61,9 +61,9 @@
     "https://sergiomarentesj.github.io/prueba/color.dae87a04d07ca92b.png": "ff4c4bcb2207891b292f544edb4da9d2df5d45cf",
     "https://sergiomarentesj.github.io/prueba/favicon.ico": "67497bc7016852f0073029893a06a8028c5a1ada",
     "https://sergiomarentesj.github.io/prueba/hue.8b1818380241e6ac.png": "f81ae627637a684614aa726e206c73ce099a01fd",
-    "https://sergiomarentesj.github.io/prueba/index.html": "2c0c8090db39960d847d8ec875fabdd9646d010f",
-    "https://sergiomarentesj.github.io/prueba/main.3d301b4ee606c81b.js": "816fbc5f6bb8bd217a80bdbf25d16aad403d19f1",
-    "https://sergiomarentesj.github.io/prueba/manifest.webmanifest": "759356c8b1c11d4fb4f8b550f2e8fc8a7b48535f",
+    "https://sergiomarentesj.github.io/prueba/index.html": "1ae7f8e0ece284d62306e962fd5dff7446e4d85f",
+    "https://sergiomarentesj.github.io/prueba/main.4b7e44af30ba7cd3.js": "8aac24b22441e3c6baf23574b78f580f68303de2",
+    "https://sergiomarentesj.github.io/prueba/manifest.webmanifest": "92953f375a6081fd0f9a5c4b0e3345d6b79d853d",
     "https://sergiomarentesj.github.io/prueba/polyfills.ca1eb2fe58177ced.js": "0e534cf43f781c3c09015e90dc9303406b1535a4",
     "https://sergiomarentesj.github.io/prueba/primeicons.0112589c5695a9ed.ttf": "ceeb46d594fde5cc507cdf8b70e38e78fe47653c",
     "https://sergiomarentesj.github.io/prueba/primeicons.943ab24c43224d29.svg": "d3332a45242b8f6edbf3f3c7176a280e7edcd961",
